@@ -20,3 +20,7 @@ float: left;
     -fx-table-header-border-color: transparent;
     -fx-padding: 5;
 }
+.textField{
+	border: 3px double #CCCCCC;
+	width: 230px;
+}
